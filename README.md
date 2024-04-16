@@ -67,3 +67,7 @@ yarn clasp push
 
 - GAS + Typescript のいい感じのビルド環境を整える
   - https://zenn.dev/terass_dev/articles/a39ab8d0128eb1
+
+## お願い
+
+このアプリやドキュメントには一部過激発言がありますが、これはプロンプト作成の過程で生まれた開発用のものです。開発者の意見ではないことをご承知おきください。
