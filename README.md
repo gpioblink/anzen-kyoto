@@ -1,5 +1,9 @@
 # anzen-kyoto
 
+![anzen-kyoto-intro](https://github.com/gpioblink/anzen-kyoto/assets/38032069/bfe3d97f-b41d-444f-992f-89028a7bebd3)
+
+※ QRコードのBOTは、ハッカソン用に作ったものです。OpenAIの課金が残り5ドルくらいしか入ってないので、もうじき止まるかも。動かなかったら公開終了です。
+
 ## Instllation
 
 ### GASの初期設定
