@@ -35,7 +35,7 @@ http://spreadsheet.new から適当なスプレッドシートを作成。
 
 あとでシートのURLを.envファイルに入れます。
 
-### .envファイルの用意
+### .envファイルの用意(開発用)
 
 プロジェクトルートに以下の内容を記載した`.env`を作成してください。
 
@@ -46,6 +46,10 @@ OPENAI_APIKEY="sk-DE************"
 TALK_LOG_SHEET_URL="https://docs.google.com/spreadsheets/d/************"
 OPENAI_COMPLETIONS_URL="https://api.openai.com/v1/chat/completions"
 ```
+
+### GASの初期設定
+
+GASで`プロジェクトの設定 -> スクリプトプロパティ`に上で用意した環境変数を1件ずつコピペ。
 
 ## デプロイ方法
 
