@@ -10,7 +10,13 @@ yarn install
 : GASの設定
 yarn clasp login
 yarn clasp create
+
+mv appscript.json src/
 ```
+
+その後、`.clasp.json`内の`rootDir`を`src`に変更(フルパスじゃなくてOK)。
+
+お好みで`appscript.json`の`timeZone`を`Asia/Tokyo`に変更。
 
 ### OPENAIの用意
 
